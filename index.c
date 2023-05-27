@@ -33,7 +33,14 @@ WEB : https://shakib.eu.org
  }
 
  int main() {
-     vaild_std("Johnson Dawne", 4746981, 4.00);
+     vaild_std("Afia Sultana", 4746981, 4.00);
+     vaild_std("Robeen H. Mir", 4746986, 4.00);
+     vaild_std("Don X", 4744853, 3.00);
+     vaild_std("DON Y", 474881, 2.00);
+     vaild_std("DON Z", 4746921, 1.00);
+     
+     
+  
 
           return 0;
 }
